@@ -21,7 +21,7 @@ The newly created process appears as a child of the specified parent PID.
 
 ## Usage
 ```
-Application.exe <CommandLine> <ParentPID>
+ppid_spoofer.exe <Application.exe> <ParentPID>
 ```
 Example
 ```
